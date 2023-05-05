@@ -7,7 +7,7 @@ Using App :
  ![App](cn333as5/app/src/main/res/drawable/cap3.jpg)
 
 ## clipสาธิตการทำงานของเกมตอบคำถาม
-https://youtu.be/CgxVgcBEHNE
+https://youtu.be/zID9pHoZMX4
 
 
 ## การทำงานของแอพ
